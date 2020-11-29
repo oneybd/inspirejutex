@@ -330,7 +330,7 @@ ul.timeline {height: auto;margin: 10px auto 0;padding: 0 0 80px;position: relati
 #skill {background-image: url(../images/parallax2.jpg);}
 #clients {background-image: url(../images/parallax3.jpg);}
 .item_top {top: -30px;opacity: 0;position: relative; }
-.item_bottom {bottom: -30px;opacity: 0;position: relative;margin-top:100px}
+.item_bottom {bottom: -30px;opacity: 0;position: relative;}
 .item_left {left: -60px;opacity: 0;}
 .item_right {right: -60px;opacity: 0;}
 .item_fade_in {opacity: 0;position: relative;padding-left: 0px;right: 0px;}
